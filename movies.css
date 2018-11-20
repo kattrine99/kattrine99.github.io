@@ -1,0 +1,43 @@
+
+body
+{
+	background-color: black;
+	text-align: center;
+}
+hr{
+	color:white;
+}
+h1{
+	color: MediumVioletRed;
+	text-align: center;
+	font-size: 30pt;
+}
+p{
+	color: white;
+	font-size:18pt;
+
+}
+ul{
+	color: white;
+	font-size:18pt;
+	text-align:left;
+}
+h2{
+	color: gold;
+	font-size: 20pt;
+}
+h3{
+	color: Moccasin;
+	font-size: 20pt;
+}
+h4{
+	color:red;
+	font-size:20pt;
+}
+h5{
+	color:lightgrey;
+	font-size:20pt;
+}
+img{
+	border-radius:10pt;
+}
